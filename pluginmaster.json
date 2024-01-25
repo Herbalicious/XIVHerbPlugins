@@ -1,15 +1,12 @@
 [
     {
-        "Author": "Herbal, Attick",
+        "Author": "Herbalicious",
         "Name": "XIV Herb Combo",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
         "InternalName": "XIVHerbCombo",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "0.0.0",
         "RepoUrl": "https://github.com/Herbalicious/XIVHerbCombo",
         "ApplicableVersion": "any",
-        "Tags": [
-            "Combo"
-        ],
         "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/Herbalicious/XIVHerbPlugins/raw/master/plugins/XIVHerbCombo/latest.zip",
         "IsHide": false,
@@ -17,6 +14,6 @@
         "DownloadLinkTesting": "https://github.com/Herbalicious/XIVHerbPlugins/raw/master/plugins/XIVHerbCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Herbalicious/XIVHerbPlugins/raw/master/plugins/XIVHerbCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1706179512"
+        "LastUpdated": "1706192706"
     }
 ]
