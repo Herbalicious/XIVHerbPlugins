@@ -1,0 +1,19 @@
+{
+  "Author": "Herbal, Attick",
+  "Name": "XIV Herb Combo",
+  "InternalName": "XIVComboPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
+  "Tags": [
+    "Combo"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Mr. Tiny Bars!",
+  "AcceptsFeedback": true
+}
